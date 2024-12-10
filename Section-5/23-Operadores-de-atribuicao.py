@@ -11,7 +11,7 @@ print(x)
 x *= 5
 print(x)
 
-x /= 5
+x /= 5      #aparentemente toda vez que divide ele printa em float por ser fração
 print(x)
 
 x %= 2      # % é o resto da divisão, por algum motivo do além ele não explicou isso antes, mas ok. Seria a mesma coisa

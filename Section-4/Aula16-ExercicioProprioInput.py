@@ -6,7 +6,8 @@ capitulos = input('Em qual capítulo você está: ') #Inteiro
 tempo = input('Quanto tempo demorou pra ler até ai (em horas): ') #Float, pode ser 2.5h por exemplo
 desc = input('Dê uma breve descrição sobre o que você acha do mangá: ') #String
 
-#Uma dúvida que eu tive agora que to escrevendo é como eu vou dizer pro input receber somente um inteiro, ou somente uma string, não sei...
+#Uma dúvida que eu tive agora que to escrevendo é como eu vou dizer pro input receber somente um inteiro, ou somente uma string, não sei... Mas caso eu precise fazer
+#algum calculo com esse valor eu consigo mudar ele para o calculo, tipo int(valor) + int(valor) mesmo que sla ele seja uma string, e a mesma coisa ao contrario.
 
 print('O mangá favorito do '+nome+' é '+manga+', ele está no capítulo '+capitulos+' e demorou '+tempo+' horas pra chegar aqui.')
 print('Agora uma breve descrição sobre o Mangá feita por ele: '+desc+'.')
