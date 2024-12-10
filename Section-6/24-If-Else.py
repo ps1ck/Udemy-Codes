@@ -1,4 +1,4 @@
-velocidade = input('Qual a velocidade do veículo?') #Na aula ele não coloca um input, muda na mão, mas eu quis fazer assim, da na mesma
+velocidade = input('Velocidade do veículo: ') #Na aula ele não coloca um input, muda na mão, mas eu quis fazer assim, da na mesma
 
 if int(velocidade) > 110:                               # Aqui eu coloquei int pra poder fazer a comparação, >, < essas coisa
     print('Acima da velocidade permitida.')             #não podem ser usadas com strings.
@@ -13,7 +13,7 @@ else:
 #com as condições pra não dar erros, mas ajuda bastante, vou tentar colocar um if dentro de outro pra ver como funciona, na
 #aula ele não disse nada sobre
 
-testeif = input('Digite um número')
+testeif = input('Digite um número: ')
 
 if float(testeif) > 20:
     if float(testeif) == 25:
