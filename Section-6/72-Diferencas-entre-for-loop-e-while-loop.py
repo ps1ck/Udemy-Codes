@@ -1,0 +1,3 @@
+# If e Else é pra uma condição de verdadeiro ou falso e ele não fica girando.
+# For Loop é quando você sabe o que quer, por exemplo, eu quero que ele gire 5x, eu quero que ele gire 10x...
+# o While Loop é quando você não sabe quantas vezes você quer, você espera atingir um resultado, um objetivo, através de uma variável.
