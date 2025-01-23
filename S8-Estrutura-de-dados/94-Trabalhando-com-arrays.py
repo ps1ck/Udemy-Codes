@@ -1,6 +1,7 @@
 from array import array
 
-# Arrays são pra listas ENORMES (mais de mil itens ou coisas por ai). Ela ta entre tuples e listas no quesito memória, então é bem útil saber usar. Ah e ela é mutable ;).
+# Arrays são pra listas ENORMES (mais de mil itens ou coisas por ai). Ela ta entre tuples e listas no quesito memória, então é bem útil saber usar, melhora bastante a 
+#performance, ah e ela é mutable, ou seja, pode ser modificada, adicionar ou remover itens e etc; Igual a uma lista mesmo só que maior e gastando menos, e mutable.
 
 letras = ['a', 'b', 'c', 'd']
 numeros_i = [10, 20, 30, 40]
