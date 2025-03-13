@@ -1,0 +1,1 @@
+# Aula introdutória, mas basicamente disse pra tentar sempre isolar o erro e resolve-lo.
