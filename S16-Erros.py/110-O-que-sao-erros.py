@@ -1,0 +1,2 @@
+# Aula introdutória, mas basicamente disse pra tentar sempre isolar o erro e resolve-lo.
+# A seção era pra ser a 9, mas algumnas aulas foram adicionadas no começo e o número mudou, a sequência de aulas segue a mesma.
