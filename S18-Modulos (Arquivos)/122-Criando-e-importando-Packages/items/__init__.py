@@ -1,0 +1,1 @@
+#Esse arquivo serve pra mostrar pro python que items é um PACKAGE, eu testei sem criar ele e funcionou também, mas na aula foi ensinado assim então criei mesmo assim.
