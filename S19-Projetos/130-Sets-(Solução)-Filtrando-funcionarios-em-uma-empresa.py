@@ -15,7 +15,7 @@ turno_noite = ['Pedro', 'Sophia', 'Bruno']
 tem_carro = ['Marcos', 'Alice', 'Bruno', 'Melissa']
 
 #Lista1
-lista1 = set(tem_carro).intersection(turno_noite)       # Muito melhor.... Fazia tempo que não usava sets.. Minha forma usou linhas demais, bem melhor assim!
+lista1 = set(tem_carro).intersection(turno_noite)       # Muito melhor.... Fazia tempo que não usava sets.. Minha forma usou linhas demais...
 print(lista1)
 
 #Lista2 
